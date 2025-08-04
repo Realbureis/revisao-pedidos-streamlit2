@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # --- TÍTULO E INTRODUÇÃO ---
-st.title("📈 Aplicação de Previsão de Pedidos")
+st.title("📈 Previsão de Pedidos Jumbo CDP")
 st.write("""
 Esta aplicação utiliza o modelo Prophet para gerar previsões de séries temporais.
 Use o controle na barra lateral para selecionar quantos meses você deseja prever.
